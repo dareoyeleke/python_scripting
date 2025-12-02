@@ -2,6 +2,7 @@
 
 ## A collection of Python scripts / Jupyter notebooks showcasing data manipulation techniques using loops, conditionals, functions, Python built-ins, regular expressions, file I/O, and more.
 ## The aim is to demonstrate algorithmic thinking and practical data-processing skills.
+## Upcoming projects working with full data sets pending upload once completed. 
 
 ### Contents & Description of Scripts
 
@@ -29,26 +30,26 @@
 **lamda_dict.ipynb**  -- https://github.com/dareoyeleke/python_scripting/blob/main/lamda_dict.ipynb
 -  This notebook explores how to use anonymous (lambda) functions together with dictionaries and other basic data-structures in Python. It illustrates how lambda expressions can be stored in dictionaries, used for quick functional behavior (e.g. dynamic selection of functions), and combined with common built-in operations to manipulate or transform data. The goal is to demonstrate idiomatic Python patterns using lambdas and dicts as tools for concise, flexible code.
 
-How to Use / Requirements
+## How to Use / Requirements
 
-Clone the repo:
+-  Clone the repo:
 
-git clone https://github.com/dareoyeleke/python_scripting.git
-
-
-Install dependencies (if any). At minimum you need Python; for notebooks using external libraries such as NumPy,  install them, e.g.:
-
-pip install numpy
+-  git clone https://github.com/dareoyeleke/python_scripting.git
 
 
-Open the .ipynb files in a Jupyter environment (e.g. Jupyter Notebook, JupyterLab, VSCode with notebook support) and run the cells to view and experiment with the code.
+-  Install dependencies (if any). At minimum you need Python; for notebooks using external libraries such as NumPy,  install them, e.g.:
 
-Purpose & Audience
+-  pip install numpy
 
-This repository is intended for:
 
-Developers practicing Python fundamentals — algorithms, data structures, file I/O, regex, array handling.
+-  Open the .ipynb files in a Jupyter environment (e.g. Jupyter Notebook, JupyterLab, VSCode with notebook support) and run the cells to view and experiment with the code.
 
-Learners wanting clear, runnable examples for common data manipulation tasks.
+## Purpose & Audience
 
-Anyone interested in seeing how basic Python tools (built-ins, regex, file I/O, NumPy) can be combined for real-world-style data processing scripts.
+-  This repository is intended for:
+
+-  Developers practicing Python fundamentals — algorithms, data structures, file I/O, regex, array handling.
+
+-  Learners wanting clear, runnable examples for common data manipulation tasks.
+
+-  Anyone interested in seeing how basic Python tools (built-ins, regex, file I/O, NumPy) can be combined for real-world-style data processing scripts.
