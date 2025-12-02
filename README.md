@@ -30,6 +30,9 @@
 **lamda_dict.ipynb**  -- https://github.com/dareoyeleke/python_scripting/blob/main/lamda_dict.ipynb
 -  This notebook explores how to use anonymous (lambda) functions together with dictionaries and other basic data-structures in Python. It illustrates how lambda expressions can be stored in dictionaries, used for quick functional behavior (e.g. dynamic selection of functions), and combined with common built-in operations to manipulate or transform data. The goal is to demonstrate idiomatic Python patterns using lambdas and dicts as tools for concise, flexible code.
 
+**Numpy_3.ipynb** -- https://github.com/dareoyeleke/python_scripting/blob/main/Numpy_3.ipynb
+-  This notebook goes beyond the basics of array creation and simple operations, exploring more advanced numerical, statistical, linear-algebraic, and array-manipulation features provided by NumPy. It aims to show how NumPy can be used in more complex workflows: data transformations, matrix computations, random data generation, and efficient array-wide operations — helping you treat numeric data and matrices in real-world applications such as scientific computing, data analysis, or simulation.
+
 ## How to Use / Requirements
 
 **Clone the repo:**
