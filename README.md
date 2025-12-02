@@ -9,7 +9,7 @@
 **iterative_conditional_userdef_return_functions.ipynb** -- https://github.com/dareoyeleke/python_scripting/blob/main/iterative_conditional_userdef_return_functions.ipynb
 -  This notebook demonstrates how to combine loops (iteration), conditional logic, and custom (user-defined) functions in Python — with a focus on functions that return values. It’s a hands-on walk-through of fundamental programming constructs: iterating through data structures, applying conditional logic, encapsulating logic into reusable functions, and producing outputs via return statements.
 
-**operators.ipynb** -- 
+**operators_two.ipynb** -- https://github.com/dareoyeleke/python_scripting/blob/main/operators.ipynb
 -  This notebook provides an overview and examples of the various built-in operators in Python. It demonstrates how to use arithmetic, comparison, logical, assignment (including augmented assignment), bitwise, identity, and membership operators. The aim is to give readers a solid grounding in how different operators behave and how they can be combined to write expressive, correct Python code.
 
 **split_join_lists_statmodule_methods.ipynb** -- https://github.com/dareoyeleke/python_scripting/blob/main/split_join_lists_statmodule_methods.ipynb
