@@ -32,7 +32,7 @@
 
 ## How to Use / Requirements
 
--  Clone the repo:
+**Clone the repo:**
 
 -  git clone https://github.com/dareoyeleke/python_scripting.git
 
