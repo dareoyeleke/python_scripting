@@ -15,6 +15,8 @@ This repository houses several Python (Jupyter) scripts that illustrate foundati
 - Importing data from various formats and transforming/parsing into structured output  
 
 It’s not a full “application” or library yet — rather a sandbox / learning ground showing how to manipulate data in different ways.
+I am currently working on Numpy library after which I will tackle pandas as both libraries are the core of my skills as a data analyst
+I also plan on building full projects off of real data sets with both once my proficiency at both increases. 
 ```
 
 ### 📂 Contents & Description of Scripts
