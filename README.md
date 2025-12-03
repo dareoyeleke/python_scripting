@@ -1,10 +1,23 @@
-# Python_scripting
+# Python_scripting 🐍
 
-## A collection of Python scripts / Jupyter notebooks showcasing data manipulation techniques using loops, conditionals, functions, Python built-ins, regular expressions, file I/O, and more.
-## The aim is to demonstrate algorithmic thinking and practical data-processing skills.
-## Upcoming projects working with full data sets pending upload once completed. 
+ A collection of Python scripts demonstrating data-manipulation skills: working with lists/strings/files, using iteration, conditionals, functions, regex, and built-in modules to parse and transform data.
 
-### Contents & Description of Scripts
+## ✅ What is this 🔍
+
+```
+This repository houses several Python (Jupyter) scripts that illustrate foundational data-processing techniques, including:
+
+- Iterative and conditional logic  
+- User-defined functions and return values  
+- List, string, and file operations  
+- Regex-based pattern matching and text processing  
+- Use of core Python modules (e.g. `re`, `stat`, file I/O)  
+- Importing data from various formats and transforming/parsing into structured output  
+
+It’s not a full “application” or library yet — rather a sandbox / learning ground showing how to manipulate data in different ways.
+```
+
+### 📂 Contents & Description of Scripts
 
 **iterative_conditional_userdef_return_functions.ipynb** -- https://github.com/dareoyeleke/python_scripting/blob/main/iterative_conditional_userdef_return_functions.ipynb
 -  This notebook demonstrates how to combine loops (iteration), conditional logic, and custom (user-defined) functions in Python — with a focus on functions that return values. It’s a hands-on walk-through of fundamental programming constructs: iterating through data structures, applying conditional logic, encapsulating logic into reusable functions, and producing outputs via return statements.
@@ -18,7 +31,7 @@
 **with_open_regex.ipynb** --  https://github.com/dareoyeleke/python_scripting/blob/main/with_open_regex.ipynb
 -  This notebook demonstrates how to read from and write to text files using Python’s with open(...) syntax, and how to use regular expressions (via the re module) to parse, search, or transform text data. It shows how to combine file I/O and pattern-matching to process semi-structured or unstructured text — for example, extracting particular patterns, filtering lines, or cleaning data.
 
-**extlibrary_classes.ipynb** --  https://github.com/dareoyeleke/python_scripting/blob/main/extlibrary_classes.ipynb
+**extlibrary_classes.ipynb** 📦 --  https://github.com/dareoyeleke/python_scripting/blob/main/extlibrary_classes.ipynb
 -  This notebook showcases usage of external Python libraries (beyond the standard library) and demonstrates how to organize code using classes (object-oriented programming). It’s intended to move beyond basic scripts toward more structured, modular, and reusable code — illustrating how libraries and custom classes can be leveraged for cleaner, maintainable workflows.
 
 **Numpy_1_.ipynb** --  https://github.com/dareoyeleke/python_scripting/blob/main/Numpy_1_.ipynb
@@ -27,13 +40,14 @@
 **Numpy_2.ipynb**  --  https://github.com/dareoyeleke/python_scripting/blob/main/Numpy_2.ipynb
 -  This notebook builds on the basics and delves into more advanced NumPy features — showing how to apply complex operations, transformations, and possibly multi-dimensional data manipulations using NumPy’s full capabilities.
 
-**lamda_dict.ipynb**  -- https://github.com/dareoyeleke/python_scripting/blob/main/lamda_dict.ipynb
--  This notebook explores how to use anonymous (lambda) functions together with dictionaries and other basic data-structures in Python. It illustrates how lambda expressions can be stored in dictionaries, used for quick functional behavior (e.g. dynamic selection of functions), and combined with common built-in operations to manipulate or transform data. The goal is to demonstrate idiomatic Python patterns using lambdas and dicts as tools for concise, flexible code.
-
 **Numpy_3.ipynb** -- https://github.com/dareoyeleke/python_scripting/blob/main/Numpy_3.ipynb
 -  This notebook goes beyond the basics of array creation and simple operations, exploring more advanced numerical, statistical, linear-algebraic, and array-manipulation features provided by NumPy. It aims to show how NumPy can be used in more complex workflows: data transformations, matrix computations, random data generation, and efficient array-wide operations — helping you treat numeric data and matrices in real-world applications such as scientific computing, data analysis, or simulation.
 
-## How to Use / Requirements
+**lamda_dict.ipynb** 📚 -- https://github.com/dareoyeleke/python_scripting/blob/main/lamda_dict.ipynb
+-  This notebook explores how to use anonymous (lambda) functions together with dictionaries and other basic data-structures in Python. It illustrates how lambda expressions can be stored in dictionaries, used for quick functional behavior (e.g. dynamic selection of functions), and combined with common built-in operations to manipulate or transform data. The goal is to demonstrate idiomatic Python patterns using lambdas and dicts as tools for concise, flexible code.
+
+
+## How to Use / Requirements⚙️
 
 **Clone the repo:**
 
@@ -45,7 +59,7 @@
 -  pip install numpy
 
 
--  Open the .ipynb files in a Jupyter environment (e.g. Jupyter Notebook, JupyterLab, VSCode with notebook support) and run the cells to view and experiment with the code.
+-  🚀 Open the .ipynb files in a Jupyter environment (e.g. Jupyter Notebook, JupyterLab, VSCode with notebook support) and run the cells to view and experiment with the code. 
 
 ## Purpose & Audience
 
