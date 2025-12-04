@@ -1,23 +1,155 @@
-# Python_scripting 🐍
+# 🐍 Python Scripting & Data Analysis — Technical Portfolio Repository
 
- A collection of Python scripts demonstrating data-manipulation skills: working with lists/strings/files, using iteration, conditionals, functions, regex, and built-in modules to parse and transform data.
+**This repository consolidates a set of structured Jupyter notebooks that demonstrate practical competency in Python programming, data manipulation, numerical computing, and applied problem-solving.
+The content reflects professional readiness for roles involving:**
 
-## ✅ What is this 🔍
+- Data Analysis / Analytics Engineering
 
-```
-This repository houses several Python (Jupyter) scripts that illustrate foundational data-processing techniques, including:
+- Python Scripting & Automation
 
-- Iterative and conditional logic  
-- User-defined functions and return values  
-- List, string, and file operations  
-- Regex-based pattern matching and text processing  
-- Use of core Python modules (e.g. `re`, `stat`, file I/O)  
-- Importing data from various formats and transforming/parsing into structured output  
+- Machine Learning Foundations
 
-It’s not a full “application” or library yet — rather a sandbox / learning ground showing how to manipulate data in different ways.
-I am currently working on numpy and pandas as both libraries are the core of my skills as a data analyst
-I also plan on building full projects off of real data sets with both once my proficiency at both increase. 
-```
+- Scientific Computing
+
+- Backend Logic & Data Pipelines
+
+### Each notebook highlights a targeted technical skillset, gradually building toward industry-standard data workflows.
+
+**⚙️ Technical Competencies Demonstrated**
+-  ✔ Python Programming Essentials
+
+- Control flow, iteration, exception-safe file handling
+
+- Writing reusable functions and modular code
+
+- Object-oriented programming fundamentals
+
+- Working with dictionaries, lists, strings, and custom functions
+
+- Regular expressions for text parsing and pattern extraction
+
+**✔ Scientific Computing with NumPy**
+
+- Multi-dimensional array manipulation
+
+- Vectorized operations and performance-oriented computation
+
+- Broadcasting rules, slicing, indexing
+
+- Aggregation and mathematical transformations
+
+**✔ Data Analysis with Pandas**
+
+- DataFrame construction, cleaning, and transformation
+
+- Label-based and boolean indexing for complex filters
+
+- Descriptive statistics and exploratory data summaries
+
+- Grouping, aggregation, sorting, and reshaping data
+
+- Practical analysis using the California Housing dataset
+
+**✔ Coding Standards & Workflow**
+
+- Consistent use of Jupyter Notebook for iterative development
+
+- Markdown documentation for clarity and reproducibility
+
+- Structured approach aligned with real data engineering tasks
+
+### 📁 Repository Structure
+**1. Python Fundamentals**
+Notebook	Focus
+operators_two.ipynb	Operator behavior and computational logic
+iterative_conditional_userdef_return_functions.ipynb	Control flow + custom functions
+lamda_dict.ipynb	Lambda expressions & dictionary operations
+split_join_lists_statmodule_methods.ipynb	String processing, lists, statistics
+with_open_regex.ipynb	File I/O + regular expressions
+
+
+**2. Numerical Computing (NumPy Series)**
+Notebook	Focus
+Numpy_1_.ipynb	Array creation, shapes, basic operations
+Numpy_2.ipynb	Indexing, slicing, broadcasting
+Numpy_3.ipynb	Aggregates, vectorization, advanced array workflows
+
+
+**3. Data Analysis (Pandas)**
+Notebook	Focus
+Pandas1.ipynb	Filtering, statistical summaries, groupby analysis
+
+
+**4. Libraries & Object-Oriented Programming**
+Notebook	Focus
+extlibrary_classes.ipynb	External libraries + class-based architecture
+
+
+### 🎯 What This Repository Communicates
+**1. Proficiency with Core Data Tools**
+
+- Shows comfort with NumPy and Pandas, which form the backbone of most Python data pipelines.
+
+**2. Ability to Work With Real Data**
+
+- Includes structured EDA, statistical summaries, and meaningful slicing/grouping operations.
+
+**3. Strong Foundations for Scaling to ML/Analytics**
+
+- The patterns demonstrated (vectorization, filtering, grouping, modular code) directly translate into:
+
+- ML preprocessing
+
+- feature engineering
+
+- ETL pipelines
+
+- API-based automation
+
+- dashboards and analytics workflows
+
+**4. Consistent Documentation + Code Organization**
+
+- Every notebook contains a clear top-level markdown summary and structured progression — a positive signal for maintainability and collaboration.
+
+### 🚀 Technical Direction & Future Expansion
+
+**This repository will evolve to include:**
+
+- Data visualization (Matplotlib, Seaborn, Plotly)
+
+- Automated ETL scripts
+
+- SQL and Python integration
+
+- Intermediate object-oriented design patterns
+
+- Machine Learning workflows with Scikit-Learn
+
+- API scripting and automation utilities
+
+**This demonstrates a trajectory toward full-stack data engineering and ML readiness.**
+
+### 🛠 How to Run the Notebooks
+
+- Clone the repository:
+
+- git clone https://github.com/dareoyeleke/python_scripting.git
+
+
+**Open any notebook with:**
+
+- Jupyter Notebook / JupyterLab
+
+- VS Code (Python + Jupyter extensions)
+
+- Google Colab
+
+**All notebooks are self-contained and require only standard Python libraries unless otherwise noted.**
+
+## 👤 About the Author
+
+This repository reflects deliberate practice in mastering the tools and patterns used in data analysis, analytics engineering, and Python development. The progression demonstrates an ability to learn independently, document clearly, and apply concepts through working code.
 
 ### 📂 Contents & Description of Scripts
 
@@ -52,19 +184,6 @@ I also plan on building full projects off of real data sets with both once my pr
 -  This includes a Google Colab notebook that demonstrates essential pandas techniques used in real-world data analysis. Before moving into larger data projects, this notebook showcases a clear understanding of data loading, filtering, aggregation, and exploratory analysis using the California Housing Test dataset.
 
 
-## How to Use / Requirements⚙️
-
-**Clone the repo:**
-
--  git clone https://github.com/dareoyeleke/python_scripting.git
-
-
--  Install dependencies (if any). At minimum you need Python; for notebooks using external libraries such as NumPy,  install them, e.g.:
-
--  pip install numpy
-
-
--  🚀 Open the .ipynb files in a Jupyter environment (e.g. Jupyter Notebook, JupyterLab, VSCode with notebook support) and run the cells to view and experiment with the code. 
 
 ## Purpose & Audience
 
