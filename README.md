@@ -15,8 +15,8 @@ This repository houses several Python (Jupyter) scripts that illustrate foundati
 - Importing data from various formats and transforming/parsing into structured output  
 
 It’s not a full “application” or library yet — rather a sandbox / learning ground showing how to manipulate data in different ways.
-I am currently working on Numpy library after which I will tackle pandas as both libraries are the core of my skills as a data analyst
-I also plan on building full projects off of real data sets with both once my proficiency at both increases. 
+I am currently working on numpy and pandas as both libraries are the core of my skills as a data analyst
+I also plan on building full projects off of real data sets with both once my proficiency at both increase. 
 ```
 
 ### 📂 Contents & Description of Scripts
@@ -49,7 +49,7 @@ I also plan on building full projects off of real data sets with both once my pr
 -  This notebook explores how to use anonymous (lambda) functions together with dictionaries and other basic data-structures in Python. It illustrates how lambda expressions can be stored in dictionaries, used for quick functional behavior (e.g. dynamic selection of functions), and combined with common built-in operations to manipulate or transform data. The goal is to demonstrate idiomatic Python patterns using lambdas and dicts as tools for concise, flexible code.
 
 **Pandas1.ipynb** 🐼 -- https://github.com/dareoyeleke/python_scripting/blob/main/Pandas1.ipynb
--  The notebook serves as a practical introduction to real-world data manipulation with pandas. It provides step-by-step examples of common tasks such as filtering, statistical exploration, grouping, and reshaping data — giving beginners a clear foundation in pandas-based analysis.
+-  This includes a Google Colab notebook that demonstrates essential pandas techniques used in real-world data analysis. Before moving into larger data projects, this notebook showcases a clear understanding of data loading, filtering, aggregation, and exploratory analysis using the California Housing Test dataset.
 
 
 ## How to Use / Requirements⚙️
