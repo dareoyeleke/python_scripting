@@ -48,6 +48,9 @@ I also plan on building full projects off of real data sets with both once my pr
 **lamda_dict.ipynb** 📚 -- https://github.com/dareoyeleke/python_scripting/blob/main/lamda_dict.ipynb
 -  This notebook explores how to use anonymous (lambda) functions together with dictionaries and other basic data-structures in Python. It illustrates how lambda expressions can be stored in dictionaries, used for quick functional behavior (e.g. dynamic selection of functions), and combined with common built-in operations to manipulate or transform data. The goal is to demonstrate idiomatic Python patterns using lambdas and dicts as tools for concise, flexible code.
 
+**Pandas1.ipynb** 🐼 -- https://github.com/dareoyeleke/python_scripting/blob/main/Pandas1.ipynb
+-  The notebook serves as a practical introduction to real-world data manipulation with pandas. It provides step-by-step examples of common tasks such as filtering, statistical exploration, grouping, and reshaping data — giving beginners a clear foundation in pandas-based analysis.
+
 
 ## How to Use / Requirements⚙️
 
