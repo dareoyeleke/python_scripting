@@ -183,6 +183,9 @@ This repository reflects deliberate practice in mastering the tools and patterns
 **Pandas1.ipynb** 🐼 -- https://github.com/dareoyeleke/python_scripting/blob/main/Pandas1.ipynb
 -  This includes a Google Colab notebook that demonstrates essential pandas techniques used in real-world data analysis. Before moving into larger data projects, this notebook showcases a clear understanding of data loading, filtering, aggregation, and exploratory analysis using the California Housing Test dataset.
 
+**matplot_basics.ipynb** 📊  -- https://github.com/dareoyeleke/python_scripting/blob/main/matplot_basics.ipynb
+-  This notebook is a compact walkthrough of Matplotlib’s core plotting features. It’s built to demonstrate practical, everyday plotting skills rather than flashy, over-engineered visuals. The examples cover the essentials you’ll use in real analysis work: line charts, scatter plots, bar charts, simple styling, labels, legends, and saving figures.The goal is straightforward: show that you can set up Matplotlib quickly, control the main plotting parameters, and produce clear, readable charts. Nothing complicated—just the foundations you actually lean on when exploring data or building scripts.If you’re skimming the repo to understand my approach to visualization, this notebook is the proof-of-competency checkpoint. 
+
 
 
 ## Purpose & Audience
