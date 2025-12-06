@@ -84,6 +84,10 @@ Pandas1.ipynb	Filtering, statistical summaries, groupby analysis
 Notebook	Focus
 extlibrary_classes.ipynb	External libraries + class-based architecture
 
+**5. Data Visualization**
+Notebook Focus
+matplot_basics.ipynb  Data Visualization with common visuals(Line, bar Charts e.t.c)
+
 
 ### 🎯 What This Repository Communicates
 **1. Proficiency with Core Data Tools**
