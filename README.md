@@ -190,6 +190,11 @@ This repository reflects deliberate practice in mastering the tools and patterns
 **Pandas2.ipynb**🐼 -- https://github.com/dareoyeleke/python_scripting/blob/main/Pandas2.ipynb
 -  This notebook walks through practical, real-world data-cleaning techniques using pandas to clean a dataset thoroughly, reshape it as needed, and produce a clear line chart that to reflect Median Salary and Job Demand for Data Jobs in the Year 2023. With a focus on how to prepare a messy dataset for reliable analysis and visualization.
 
+**Pandas3.ipynb**🐼 -- https://github.com/dareoyeleke/python_scripting/blob/main/Pandas3.ipynb
+-  This notebook demonstrates practical data cleaning and transformation workflows using Pandas, with a focus on preparing raw datasets for analysis and visualization focusing on
+-  Data quality control and validation -  Safe and efficient DataFrame manipulation  -  Reshaping and aggregating data for analytical use  -  Preparing clean datasets for visualization and downstream analysis.
+Building on foundational Pandas skills, this notebook covers common preprocessing tasks such as handling missing values, removing duplicate records, reshaping data with pivot tables, and validating dataset structure. Emphasis is placed on making intentional data preparation decisions that reflect real-world analytics and reporting workflows.
+
 **matplot_basics.ipynb** 📊  -- https://github.com/dareoyeleke/python_scripting/blob/main/matplot_basics.ipynb
 -  This notebook is a compact walkthrough of Matplotlib’s core plotting features. It’s built to demonstrate practical, everyday plotting skills rather than flashy, over-engineered visuals. The examples cover the essentials you’ll use in real analysis work: line charts, scatter plots, bar charts, simple styling, labels, legends, and saving figures.The goal is straightforward: show that you can set up Matplotlib quickly, control the main plotting parameters, and produce clear, readable charts. Nothing complicated—just the foundations you actually lean on when exploring data or building scripts.If you’re skimming the repo to understand my approach to visualization, this notebook is the proof-of-competency checkpoint. 
 
